@@ -1,0 +1,13 @@
+
+{
+  "name": "seenfess-auto-menfess",
+  "version": "1.0.0",
+  "description": "SEEN FESS Auto Menfess Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
